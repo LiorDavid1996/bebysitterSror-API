@@ -1,4 +1,4 @@
-[
+{"products":[
     {
         "id": 1,
         "name":"Gerber Apple flavored",
@@ -71,4 +71,4 @@
         "price": 100.00,
         "imgUrl": "img/similacx3.jpg"
     }
-]
+]}
